@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# OS-specific
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Editor-specific
+.vscode/
+.idea/
+*.swp
+
+# Log files
+*.log
+
+# Compiled or built output
+dist/
+build/
+*.egg-info/
+
+# Streamlit cache
+.streamlit/config.toml
+.streamlit/secrets.toml
