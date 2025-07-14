@@ -29,5 +29,3 @@ user_name = "jeffrey"
 greet(user_name)
 """
 st.code(code_example, language="Python")
-st.image(os.path.join(os.getcwd(), 'static', 'BBC.jpg'), width=800)
-st.image()
