@@ -1,4 +1,4 @@
-import streamlit_mini_course.streamlit as st
+import streamlit as st
 import os
 import pandas as pd
 
@@ -29,3 +29,4 @@ user_name = "jeffrey"
 greet(user_name)
 """
 st.code(code_example, language="Python")
+st.image(os.path.join(os.getcwd(),'static', "IMG_5815 2.jpeg"))
